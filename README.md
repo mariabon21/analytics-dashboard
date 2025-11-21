@@ -1,2 +1,2 @@
-# analytics-dashboard
-A clean and responsive dashboard for visualizing analytics data — includes charts, user insights, and performance tracking.
+# User-Analytics-Dashboard-
+A responsive user analytics dashboard that displays in real time users info using summary panels and charts .Built using HTML CSS JS
